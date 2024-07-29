@@ -1,0 +1,59 @@
+body {
+  background-color: cadetblue;
+}
+p {
+  color: black; 
+  color: white; 
+  border: dotted red; 
+  width: 900px; 
+  font-size: 20px; 
+  text-shadow: black 0.5px 0.5px; 
+  border-width: 3px; 
+  padding: 5px; 
+  font-family: sans-serif; 
+  font-weight: 600; 
+  border-radius: 8px
+}
+h1 {
+  font-weight: bold; 
+  text-decoration-line: underline;
+  text-decoration-style: double; 
+  color: white; 
+  text-shadow: red 1px 1px; 
+  font-size: 35px
+}
+h3 {
+  color: white;
+  text-decoration-line: underline; 
+  text-decoration-style: wavy; 
+  font-size: 28px;
+  text-decoration-color: red; 
+  text-shadow: black 1px 1px
+}
+
+li {
+  color: red;
+  text-shadow: black 1px 1px;
+  font-size: 20px}
+
+a {
+  color: floralwhite; 
+  font-size: 20px;
+  text-shadow: 0px 0px;
+  font-size: 18px
+}
+
+img {
+  height: 90px;
+  float:right;
+  margin-right: 600px;
+  margin-top: 40px;
+}
+
+.citation {
+  text-align: right;
+  border: none;
+  width: 720px;
+  font-size: 12px;
+}
+
